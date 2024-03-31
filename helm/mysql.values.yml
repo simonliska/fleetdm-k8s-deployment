@@ -1,0 +1,3 @@
+auth:
+  database: "fleet-database-mysql"
+  username: "fleet"
