@@ -1,3 +1,6 @@
+# Note 
+As of ~ May 2024 is k8s deplotment depricated, can't guaratee it will work. Charts are still released at [Fleetdm](https://github.com/fleetdm/fleet/tree/main/charts/fleet)/.
+
 # Intro
 Let's deploy *Fleetdm* into Kubernetes using *k3d*, setup agent into *Vagrant* vm and create *Github CI/CD* pipeline to manage Fleetdm recources.
 
